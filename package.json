@@ -12,7 +12,7 @@
     "json-server": "0.17.0"
   },
   "devDependencies": {
-    "nodemon": "1.18.4"
+    "nodemon": "^2.0.15"
   },
   "keywords": []
 }
